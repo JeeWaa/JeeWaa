@@ -9,7 +9,7 @@
 - 💜 Interests : `UIUX Designing`, `IoT` & `Robotics`.
 - 📫 How to reach me : `jeewa228@gmail.com`
 - ⚡ Fun fact : `Gaming`
-- 🌏 My Protfolio : <a href="https://jeewaa.github.io/MyProfile/">click</a><br>
+- 🌏 My Protfolio : <a href="https://jeewawebsite.000webhostapp.com/">click</a><br>
 
 <h3 align="left">Connect with me:</h3>
 
