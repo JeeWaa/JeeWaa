@@ -19,13 +19,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,tailwind,react,jquery,arduino,java,mysql,nodejs,spring,hibernate,laravel" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,tailwind,jquery,react,flutter,firebase,arduino,java,nodejs,spring,laravel" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,idea,androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,idea,androidstudio,vscode,postman" />
   </a>
 </p>
 
